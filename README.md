@@ -1,3 +1,7 @@
-# Proje Videosu
+# Projeden Fooğraflar
 
-[Proje Videosunu İzleyin](https://github.com/semihbekdas/CalculatorApp/blob/1a204724e6d232ba091557552d0c3fecbccfda57/Ekran%20Kayd%C4%B1%202024-09-29%2021.00.33.mov)
+# Proje Fotoğrafları
+
+![Fotoğraf 1](https://github.com/semihbekdas/CalculatorApp/blob/main/resim1.png)
+![Fotoğraf 2](https://github.com/semihbekdas/CalculatorApp/blob/main/resim2.png)
+![Fotoğraf 3](https://github.com/semihbekdas/CalculatorApp/blob/main/resim3.png)
